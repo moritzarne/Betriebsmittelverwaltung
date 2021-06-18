@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Moritz Wübbena\\Source\\Repos\\AWE\\Betriebsmittelverwaltung\\Betriebsmittelverwaltung.csproj": {}
+    "C:\\Users\\Moritz Wübbena\\Source\\Repos\\Betriebsmittelverwaltung\\Betriebsmittelverwaltung\\Betriebsmittelverwaltung.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Moritz Wübbena\\Source\\Repos\\AWE\\Betriebsmittelverwaltung\\Betriebsmittelverwaltung.csproj": {
+    "C:\\Users\\Moritz Wübbena\\Source\\Repos\\Betriebsmittelverwaltung\\Betriebsmittelverwaltung\\Betriebsmittelverwaltung.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Moritz Wübbena\\Source\\Repos\\AWE\\Betriebsmittelverwaltung\\Betriebsmittelverwaltung.csproj",
+        "projectUniqueName": "C:\\Users\\Moritz Wübbena\\Source\\Repos\\Betriebsmittelverwaltung\\Betriebsmittelverwaltung\\Betriebsmittelverwaltung.csproj",
         "projectName": "Betriebsmittelverwaltung",
-        "projectPath": "C:\\Users\\Moritz Wübbena\\Source\\Repos\\AWE\\Betriebsmittelverwaltung\\Betriebsmittelverwaltung.csproj",
+        "projectPath": "C:\\Users\\Moritz Wübbena\\Source\\Repos\\Betriebsmittelverwaltung\\Betriebsmittelverwaltung\\Betriebsmittelverwaltung.csproj",
         "packagesPath": "C:\\Users\\Moritz Wübbena\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Moritz Wübbena\\Source\\Repos\\AWE\\Betriebsmittelverwaltung\\obj\\",
+        "outputPath": "C:\\Users\\Moritz Wübbena\\Source\\Repos\\Betriebsmittelverwaltung\\Betriebsmittelverwaltung\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
