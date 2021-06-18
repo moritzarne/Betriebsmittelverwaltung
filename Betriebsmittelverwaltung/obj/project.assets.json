@@ -8502,25 +8502,30 @@
       "Microsoft.Bcl.AsyncInterfaces >= 1.1.1",
       "Microsoft.EntityFrameworkCore >= 3.1.16",
       "Microsoft.EntityFrameworkCore.Design >= 3.1.16",
+      "Microsoft.EntityFrameworkCore.Relational >= 3.1.16",
       "Microsoft.EntityFrameworkCore.SqlServer >= 3.1.15",
       "Microsoft.EntityFrameworkCore.Tools >= 3.1.15",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 3.1.5"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Lenovo\\.nuget\\packages\\": {}
+    "C:\\Users\\Moritz Wübbena\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lenovo\\source\\repos\\Betriebsmittelverwaltung\\Betriebsmittelverwaltung\\Betriebsmittelverwaltung.csproj",
+      "projectUniqueName": "C:\\Users\\Moritz Wübbena\\Source\\Repos\\AWE\\Betriebsmittelverwaltung\\Betriebsmittelverwaltung.csproj",
       "projectName": "Betriebsmittelverwaltung",
-      "projectPath": "C:\\Users\\Lenovo\\source\\repos\\Betriebsmittelverwaltung\\Betriebsmittelverwaltung\\Betriebsmittelverwaltung.csproj",
-      "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lenovo\\source\\repos\\Betriebsmittelverwaltung\\Betriebsmittelverwaltung\\obj\\",
+      "projectPath": "C:\\Users\\Moritz Wübbena\\Source\\Repos\\AWE\\Betriebsmittelverwaltung\\Betriebsmittelverwaltung.csproj",
+      "packagesPath": "C:\\Users\\Moritz Wübbena\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Moritz Wübbena\\Source\\Repos\\AWE\\Betriebsmittelverwaltung\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Moritz Wübbena\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8564,6 +8569,10 @@
             "target": "Package",
             "version": "[3.1.16, )"
           },
+          "Microsoft.EntityFrameworkCore.Relational": {
+            "target": "Package",
+            "version": "[3.1.16, )"
+          },
           "Microsoft.EntityFrameworkCore.SqlServer": {
             "target": "Package",
             "version": "[3.1.15, )"
@@ -8597,7 +8606,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   }

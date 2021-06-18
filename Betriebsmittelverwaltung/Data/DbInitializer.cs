@@ -12,10 +12,10 @@ namespace Betriebsmittelverwaltung.Data
         {
             context.Database.EnsureCreated();
 
-            if (context.Bestandsverwaltungs.Any())
+            /*if (context.Bestandsverwaltungs.Any())
             {
                 return;
-            }
+            }*/
             var av = new Auftragsverwaltung[]
             {
                 new Auftragsverwaltung{Typ = "Kran", Verfügbar = true, Bauleiter = null} //Bauleiter fehlt noch
@@ -25,6 +25,7 @@ namespace Betriebsmittelverwaltung.Data
                 context.Auftragsverwaltungs.Add(a);
             }
             context.SaveChanges();
+
 
             var bv = new Baustellenverwaltung[]
             {
